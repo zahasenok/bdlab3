@@ -1,0 +1,143 @@
+[12-06-2021T11:36:39] — [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+[12-06-2021T11:36:39] — Failed to write data to connection IPv4Address(('localhost', 7687)) (IPv4Address(('127.0.0.1', 7687)))
+[12-06-2021T11:39:42] — [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+[12-06-2021T11:39:42] — Failed to write data to connection IPv4Address(('localhost', 7687)) (IPv4Address(('127.0.0.1', 7687)))
+[12-06-2021T11:40:28] — [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+[12-06-2021T11:40:28] — Failed to write data to connection IPv4Address(('localhost', 7687)) (IPv4Address(('127.0.0.1', 7687)))
+[12-06-2021T11:42:15] — User: richardsderrick	Action: register
+
+[12-06-2021T11:42:15] — User: richardsderrick;	Action: login
+[12-06-2021T11:42:15] — Event: richardsderrick logged in
+[12-06-2021T11:42:21] — User: millermichelle	Action: register
+
+[12-06-2021T11:42:21] — User: millermichelle;	Action: login
+[12-06-2021T11:42:21] — Event: millermichelle logged in
+[12-06-2021T11:42:27] — User: stephanie62	Action: register
+
+[12-06-2021T11:42:27] — User: stephanie62;	Action: login
+[12-06-2021T11:42:27] — Event: stephanie62 logged in
+[12-06-2021T11:42:33] — User: psmith	Action: register
+
+[12-06-2021T11:42:33] — User: psmith;	Action: login
+[12-06-2021T11:42:33] — Event: psmith logged in
+[12-06-2021T11:42:39] — User: barbara27	Action: register
+
+[12-06-2021T11:42:39] — User: barbara27;	Action: login
+[12-06-2021T11:42:39] — Event: barbara27 logged in
+[12-06-2021T11:42:46] — User: higginsteresa	Action: register
+
+[12-06-2021T11:42:46] — User: higginsteresa;	Action: login
+[12-06-2021T11:42:46] — Event: higginsteresa logged in
+[12-06-2021T11:42:52] — User: tdixon	Action: register
+
+[12-06-2021T11:42:52] — User: tdixon;	Action: login
+[12-06-2021T11:42:52] — Event: tdixon logged in
+[12-06-2021T11:42:58] — User: wilsonthomas	Action: register
+
+[12-06-2021T11:42:58] — User: wilsonthomas;	Action: login
+[12-06-2021T11:42:58] — Event: wilsonthomas logged in
+[12-06-2021T11:43:04] — User: lauren90	Action: register
+
+[12-06-2021T11:43:04] — User: lauren90;	Action: login
+[12-06-2021T11:43:04] — Event: lauren90 logged in
+[12-06-2021T11:43:11] — User: katherine41	Action: register
+
+[12-06-2021T11:43:11] — User: katherine41;	Action: login
+[12-06-2021T11:43:11] — Event: katherine41 logged in
+[12-06-2021T11:43:17] — User: reyesjessica	Action: register
+
+[12-06-2021T11:43:17] — User: reyesjessica;	Action: login
+[12-06-2021T11:43:17] — Event: reyesjessica logged in
+[12-06-2021T11:43:23] — User: thomassheila	Action: register
+
+[12-06-2021T11:43:23] — User: thomassheila;	Action: login
+[12-06-2021T11:43:23] — Event: thomassheila logged in
+[12-06-2021T11:43:29] — User: xmartin	Action: register
+
+[12-06-2021T11:43:29] — User: xmartin;	Action: login
+[12-06-2021T11:43:29] — Event: xmartin logged in
+[12-06-2021T11:43:36] — User: kashley	Action: register
+
+[12-06-2021T11:43:36] — User: kashley;	Action: login
+[12-06-2021T11:43:36] — Event: kashley logged in
+[12-06-2021T11:43:42] — User: ronald67	Action: register
+
+[12-06-2021T11:43:42] — User: ronald67;	Action: login
+[12-06-2021T11:43:42] — Event: ronald67 logged in
+[12-06-2021T11:43:46] — Event: User richardsderrick sent spam message: 'Whom wrong speak choice as company against significant provide single mission live practice understand senior church light officer air.'
+[12-06-2021T11:43:46] — Event: User higginsteresa signed out
+[12-06-2021T11:43:46] — Event: User millermichelle sent spam message: 'Around hospital table opportunity important serve water receive education middle offer spring drug nothing international strong head listen arm world.'
+[12-06-2021T11:43:47] — Event: User stephanie62 sent spam message: 'Significant attorney last bank traditional article friend should participant during toward themselves student defense world matter.'
+[12-06-2021T11:43:49] — Event: User tdixon sent spam message: 'Under commercial community ahead individual with seven oil drive other eight say good send score.'
+[12-06-2021T11:43:50] — Event: User lauren90 sent spam message: 'Agreement ten less agent these serve policy natural ahead cell hot wear media Mrs likely side.'
+[12-06-2021T11:43:50] — User: higginsteresa;	Action: logout
+[12-06-2021T11:43:50] — User: xmartin;	Action: logout
+[12-06-2021T11:43:50] — User: millermichelle;	Action: logout
+[12-06-2021T11:43:50] — User: lauren90;	Action: logout
+[12-06-2021T11:43:50] — User: psmith;	Action: logout
+[12-06-2021T11:43:50] — User: richardsderrick;	Action: logout
+[12-06-2021T11:43:50] — User: stephanie62;	Action: logout
+[12-06-2021T11:43:50] — User: tdixon;	Action: logout
+[12-06-2021T11:43:50] — User: barbara27;	Action: logout
+[12-06-2021T11:43:50] — User: ronald67;	Action: logout
+[12-06-2021T11:43:50] — Event: User xmartin signed out
+[12-06-2021T11:43:50] — User: reyesjessica;	Action: logout
+[12-06-2021T11:43:50] — User: thomassheila;	Action: logout
+[12-06-2021T11:43:50] — User: wilsonthomas;	Action: logout
+[12-06-2021T11:43:50] — User: katherine41;	Action: logout
+[12-06-2021T11:43:50] — User: kashley;	Action: logout
+[12-06-2021T11:43:50] — Event: User millermichelle signed out
+[12-06-2021T11:43:50] — Event: User lauren90 signed out
+[12-06-2021T11:43:50] — Event: User psmith signed out
+[12-06-2021T11:43:50] — Event: User richardsderrick signed out
+[12-06-2021T11:43:50] — Event: User stephanie62 signed out
+[12-06-2021T11:43:50] — Event: User tdixon signed out
+[12-06-2021T11:43:50] — Event: User barbara27 signed out
+[12-06-2021T11:43:50] — Event: User ronald67 signed out
+[12-06-2021T11:43:50] — Event: User reyesjessica signed out
+[12-06-2021T11:43:50] — Event: User thomassheila signed out
+[12-06-2021T11:43:50] — Event: User wilsonthomas signed out
+[12-06-2021T11:43:50] — Event: User katherine41 signed out
+[12-06-2021T11:43:50] — Event: User kashley signed out
+[12-06-2021T11:43:51] — Event: User wilsonthomas sent spam message: 'Organization special if glass remember represent structure real else series rule.'
+[12-06-2021T11:43:53] — Event: User kashley sent spam message: 'Home international town road campaign yard apply because nor conference nice black month should ground have site than help really music.'
+[12-06-2021T11:43:54] — Event: User katherine41 sent spam message: 'Especially service head crime allow weight small traditional shoulder almost paper sell.'
+[12-06-2021T11:43:56] — Event: User psmith sent spam message: 'Beyond painting person other country them ready sound near here consumer old save three six.'
+[12-06-2021T11:43:57] — Event: User kashley sent spam message: 'Attack either guess just name large site performance like family present management state field address manager place choose.'
+[12-06-2021T11:43:58] — Event: User barbara27 sent spam message: 'Two great around science themselves theory blood pressure popular especially rule which soon visit once form.'
+[12-06-2021T11:43:59] — Event: User reyesjessica sent spam message: 'Morning always six best again Congress power do military onto western something.'
+[12-06-2021T11:44:00] — Event: User higginsteresa sent spam message: 'May could place system doctor success discussion himself paper garden now.'
+[12-06-2021T11:44:01] — Event: User millermichelle sent spam message: 'Away popular know board lawyer data right movie pay before similar financial.'
+[12-06-2021T11:44:02] — Event: User stephanie62 sent spam message: 'Art then always job say Democrat pull back just.'
+[12-06-2021T11:44:03] — Event: User ronald67 sent spam message: 'Difficult candidate time parent scientist push mother then data common new machine recently itself action condition bring financial discover.'
+[12-06-2021T11:44:03] — Event: User psmith sent spam message: 'House it end behind indicate eight local ok history concern change risk appear.'
+[12-06-2021T11:44:06] — Event: User reyesjessica sent spam message: 'Even rise space ahead war cut similar with consider nearly performance today show role effort begin only.'
+[12-06-2021T11:44:08] — Event: User katherine41 sent spam message: 'Simply option seven rule star walk adult finally really.'
+[12-06-2021T11:44:08] — Event: User lauren90 sent spam message: 'Personal computer way or over create risk standard drop pull.'
+[12-06-2021T11:44:11] — Event: User barbara27 sent spam message: 'Perhaps camera win total wide bed wife heavy dog suffer past.'
+[12-06-2021T11:44:12] — Event: User tdixon sent spam message: 'Direction as significant find hand sell before suggest feeling conference environment enough never early magazine learn shake play half.'
+[12-06-2021T11:44:13] — Event: User kashley sent spam message: 'Several just why generation many quality two evidence four order light store.'
+[12-06-2021T11:44:14] — Event: User lauren90 sent spam message: 'While here seek cell cold thousand yourself family red perhaps education use rich information.'
+[12-06-2021T11:44:15] — Event: User reyesjessica sent spam message: 'High big beat appear miss course theory quickly single a cover follow.'
+[12-06-2021T11:44:16] — Event: User ronald67 sent spam message: 'They animal central whose food authority really bill win budget.'
+[12-06-2021T11:44:17] — Event: User lauren90 sent spam message: 'Try speech chance whose push seem continue subject peace message treatment country red east majority service.'
+[12-06-2021T11:44:17] — Event: User psmith sent spam message: 'Type its nation alone western none six industry end offer same protect its item contain special effort compare measure.'
+[12-06-2021T11:44:19] — Event: User thomassheila sent spam message: 'Know rest nor capital scientist close voice land even present right firm fight different him.'
+[12-06-2021T11:44:20] — Event: User kashley sent spam message: 'Degree control may election into this herself finish tell notice former trade action.'
+[12-06-2021T11:44:21] — Event: User reyesjessica sent spam message: 'Again structure along professional story event lay weight rate letter risk spring mind high learn business provide to moment.'
+[12-06-2021T11:44:23] — Event: User stephanie62 sent spam message: 'House dream once season ever teacher federal consumer discussion up still lay road peace that.'
+[12-06-2021T11:44:23] — Event: User ronald67 sent spam message: 'Join but eat scientist together natural huge take song feel.'
+[12-06-2021T11:44:25] — Event: User barbara27 sent spam message: 'Today what their government enjoy fear computer answer do development report paper.'
+[12-06-2021T11:44:26] — Event: User tdixon sent spam message: 'Hotel leader until model garden help data water road approach data participant chance this environmental wrong what only card indeed.'
+[12-06-2021T11:44:27] — Event: User wilsonthomas sent spam message: 'Pretty drop cause east whom sense standard level born hour impact child successful major body subject.'
+[12-06-2021T11:44:28] — Event: User stephanie62 sent spam message: 'Change claim gun family increase all agency feeling trouble clear whatever very he rise how individual cell.'
+[12-06-2021T11:44:29] — Event: User katherine41 sent spam message: 'Language one stop anything smile suddenly wind campaign position from.'
+[12-06-2021T11:44:31] — Event: User katherine41 sent spam message: 'While hot skin trade exist card physical later receive official race shoulder answer both then present try rate far.'
+[12-06-2021T11:44:32] — Event: User thomassheila sent spam message: 'Reduce entire none key interesting cut author rock different charge them wish.'
+[12-06-2021T11:44:33] — Event: User stephanie62 sent spam message: 'Tend factor every dream staff hope mention material project capital everyone country.'
+[12-06-2021T11:44:35] — Event: User richardsderrick sent spam message: 'Support will cold point public local rule actually fight leave.'
+[12-06-2021T11:44:36] — Event: User thomassheila sent spam message: 'Smile state who class argue show best attack from right between public indeed world church yard.'
+[12-06-2021T11:56:58] — [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+[12-06-2021T11:56:58] — Failed to write data to connection IPv4Address(('localhost', 7687)) (IPv4Address(('127.0.0.1', 7687)))
+[12-06-2021T11:58:08] — [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+[12-06-2021T11:58:08] — Failed to write data to connection IPv4Address(('localhost', 7687)) (IPv4Address(('127.0.0.1', 7687)))
